@@ -1,1 +1,1 @@
-# sql-data-analysis-chinook
+Business Analysis: Revenue Optimization for Chinook Store
